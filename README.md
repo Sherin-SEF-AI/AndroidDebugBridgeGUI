@@ -28,7 +28,7 @@ The **ADB GUI Tool** is a graphical interface for interacting with Android Debug
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/AndroidDebugBridgeGUI.git
+    (`https://github.com/Sherin-SEF-AI/AndroidDebugBridgeGUI.git`)
     cd AndroidDebugBridgeGUI
     ```
 
